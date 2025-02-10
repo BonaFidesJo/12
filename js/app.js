@@ -11664,7 +11664,7 @@
         }, react.createElement("div", {
             className: "header__container"
         }, react.createElement(Link, {
-            to: "/"
+            to: ""
         }, react.createElement("div", {
             className: "header__logo"
         }, react.createElement("img", {
